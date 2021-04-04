@@ -37,14 +37,14 @@ def BinarySearch(nums: List[int], target: int) -> int:
     return -1
 
 if __name__ == "__main__":
-    print("\n\tWelcome to the Binary Search program. (Python)");
+    print("\n\tWelcome to the Binary Search program. (Python)")
 
     #Test case
     nums = [-1,0,3,5,9,12]
     target = 9
 
-    print("\n\tGiven array: ", nums, "\n\tTarget: ", target, "\n\n\tPosition found: ", BinarySearch(nums, target));
+    print("\n\tGiven array: ", nums, "\n\tTarget: ", target, "\n\n\tPosition found: ", BinarySearch(nums, target))
 
-    print("\n\tProgram done.");
+    print("\n\tProgram done.")
 
 

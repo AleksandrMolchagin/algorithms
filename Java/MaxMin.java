@@ -29,7 +29,7 @@ public class MaxMin
         /* Test case */
         int [] nums = {2, 9, 55, 3, 1, 111100};
 
-        System.out.print("\n\tThe solution; " + Find(array));
+        System.out.print("\n\tThe solution; " + Find(nums));
         
         System.out.print("\n\n\tProgram done.\n");
 
